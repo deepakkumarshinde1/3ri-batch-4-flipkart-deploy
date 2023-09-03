@@ -119,7 +119,7 @@ function HomePage() {
 
                 <li className="nav-item">
                   <a className="nav-link " href="#">
-                    Become a Seller
+                    Deepak
                   </a>
                 </li>
                 <li className="nav-item dropdown">
